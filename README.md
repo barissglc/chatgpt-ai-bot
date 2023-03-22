@@ -39,12 +39,12 @@ pip install  gradio
 
  4. Uygulamayı çalıştırın:
 
- Terminalinizi açıp(app.py konumunuzu bulup) python "C:\Users\barissglc\Desktop\app.py" yazın
+      Terminalinizi açıp(app.py konumunuzu bulup) python "C:\Users\barissglc\Desktop\app.py" yazın
 
 5. Terminalinizden bağlantıları kopyalayın
-
+    "http://127.0.0.1:7860/"
     ChatGPT API ile kendi AI sohbet robotunuzu bu şekilde oluşturabilirsiniz. ChatGPT destekli AI sohbet robotunuz yayında.
-    Ayrıca herkese açık URL'yi kopyalayabilir ve arkadaşlarınız ve ailenizle paylaşabilirsiniz. Bağlantı 72 saat boyunca yayında olacak, ancak sunucu örneği bilgisayarınızda çalıştığı için bilgisayarınızı da açık tutmanız gerekiyor.
+    Ayrıca herkese açık URL'yi kopyalayabilir ve arkadaşlarınız ve ailenizle paylaşabilirsiniz. Bağlantı 72 saat boyunca yayında olacak, ancak sunucu örneği bilgisayarınızda çalıştığı için bilgisayarınızı da açık tutmanız gerekiyor. 
 
 ## API Kullanımı
 
